@@ -1,0 +1,10 @@
+
+# VSCode and JetBrains
+.vscode
+.idea
+
+# Build and Dependecies.
+_deps
+linux-build
+windows-build
+cmake-build-debug
