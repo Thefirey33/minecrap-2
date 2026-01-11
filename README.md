@@ -9,7 +9,17 @@ To build this game, you must have:
 - CMake (Minimum 3.28.3)
 - C++ (Version 20)
 
-All the dependencies for the game, are installed by the CMake configuration automatically
+## Linux
+
+### Raylib Dependencies
+- `libxi`
+- `libxcursor`
+- `libxinerama`
+- `libxrandr`
+- `libx11`
+
+Use `sudo apt install` on Debian platforms or `sudo pacman -S` on Arch Linux.
+
 
 ## Building
 
